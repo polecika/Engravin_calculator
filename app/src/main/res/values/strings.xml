@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChainText</string>
+    <string name="share">/</string>
+    <string name="multiplication">х</string>
+    <string name="startTextScreen">0</string>
+    <string name="sevenBtn">7</string>
+    <string name="eightBtn">8</string>
+    <string name="nineBtn">9</string>
+    <string name="fourBtn">4</string>
+    <string name="fiveBtn">5</string>
+    <string name="sixBtn">6</string>
+    <string name="oneBtn">1</string>
+    <string name="twoBtn">2</string>
+    <string name="threeBtn">3</string>
+    <string name="zeroBtn">0</string>
+    <string name="pointBtn">.</string>
+    <string name="subtraction">-</string>
+    <string name="clearBtn">C</string>
+    <string name="signChange">+/-</string>
+    <string name="percent">%</string>
+    <string name="plus">+</string>
+    <string name="equals">=</string>
+    <string name="S">S</string>
+    <string name="V">V</string>
+    <string name="E">E</string>
+    <string name="T">T</string>
+</resources>
